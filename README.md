@@ -1,5 +1,1 @@
-# fligno-git
-
-Jonaem Azis
-
---For Stash purposes
+Learn@fligno
