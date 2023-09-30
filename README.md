@@ -1,5 +1,1 @@
-# fligno-git
-
-Jonaem Azis
-
---For Stash purposes
+Jonaem Azis - BS Information Technology
